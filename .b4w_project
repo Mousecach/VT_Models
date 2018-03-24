@@ -1,0 +1,28 @@
+[info]
+author = Mousecach
+icon = .b4w_icon.png
+name = VT_Models
+title = VT Models
+
+[paths]
+assets_dirs = projects/VT_Models/assets;
+blend_dirs = projects/VT_Models/blender;
+blender_exec = G:\Games\SteamLibrary\steamapps\common\Blender\blender.exe
+build_dir = projects/VT_Models/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = advanced
+use_physics = True
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
